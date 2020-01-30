@@ -1,0 +1,33 @@
+2020/01/31-00:39:42.513 680a Reusing MANIFEST /home/lr/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/01/31-00:39:42.514 680a Recovering log #380
+2020/01/31-00:39:42.514 680a Reusing old log /home/lr/.config/chromium/Default/Session Storage/000380.log 
+2020/01/31-00:49:05.149 9400 Level-0 table #385: started
+2020/01/31-00:49:05.157 9400 Level-0 table #385: 20535 bytes OK
+2020/01/31-00:49:05.160 9400 Delete type=0 #380
+2020/01/31-01:05:24.485 9400 Level-0 table #387: started
+2020/01/31-01:05:24.491 9400 Level-0 table #387: 21629 bytes OK
+2020/01/31-01:05:24.494 9400 Delete type=0 #384
+2020/01/31-01:08:49.671 9400 Level-0 table #389: started
+2020/01/31-01:08:49.673 9400 Level-0 table #389: 18938 bytes OK
+2020/01/31-01:08:49.676 9400 Delete type=0 #386
+2020/01/31-01:22:27.904 9400 Level-0 table #391: started
+2020/01/31-01:22:27.910 9400 Level-0 table #391: 18782 bytes OK
+2020/01/31-01:22:27.912 9400 Delete type=0 #388
+2020/01/31-01:22:27.912 9400 Compacting 4@0 + 1@1 files
+2020/01/31-01:22:27.923 9400 Generated table #392@0: 6833 keys, 196540 bytes
+2020/01/31-01:22:27.923 9400 Compacted 4@0 + 1@1 files => 196540 bytes
+2020/01/31-01:22:27.926 9400 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/31-01:22:27.927 9400 Delete type=2 #385
+2020/01/31-01:22:27.927 9400 Delete type=2 #382
+2020/01/31-01:22:27.928 9400 Delete type=2 #389
+2020/01/31-01:22:27.928 9400 Delete type=2 #387
+2020/01/31-01:22:27.928 9400 Delete type=2 #391
+2020/01/31-01:25:22.863 9400 Level-0 table #394: started
+2020/01/31-01:25:22.869 9400 Level-0 table #394: 18756 bytes OK
+2020/01/31-01:25:22.872 9400 Delete type=0 #390
+2020/01/31-01:34:32.915 9400 Level-0 table #396: started
+2020/01/31-01:34:32.920 9400 Level-0 table #396: 25131 bytes OK
+2020/01/31-01:34:32.923 9400 Delete type=0 #393
+2020/01/31-01:42:57.086 9400 Level-0 table #398: started
+2020/01/31-01:42:57.094 9400 Level-0 table #398: 16370 bytes OK
+2020/01/31-01:42:57.097 9400 Delete type=0 #395

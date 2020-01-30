@@ -1,0 +1,14 @@
+2020/01/31-00:45:04.185 6ddb Recovering log #31
+2020/01/31-00:45:04.186 6ddb Level-0 table #33: started
+2020/01/31-00:45:04.191 6ddb Level-0 table #33: 11893 bytes OK
+2020/01/31-00:45:04.198 6ddb Delete type=3 #29
+2020/01/31-00:45:04.198 6ddb Delete type=0 #31
+2020/01/31-00:45:04.198 6deb Compacting 4@0 + 1@1 files
+2020/01/31-00:45:04.202 6deb Generated table #35@0: 4 keys, 2347 bytes
+2020/01/31-00:45:04.202 6deb Compacted 4@0 + 1@1 files => 2347 bytes
+2020/01/31-00:45:04.206 6deb compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/01/31-00:45:04.206 6deb Delete type=2 #33
+2020/01/31-00:45:04.206 6deb Delete type=2 #21
+2020/01/31-00:45:04.206 6deb Delete type=2 #16
+2020/01/31-00:45:04.206 6deb Delete type=2 #18
+2020/01/31-00:45:04.206 6deb Delete type=2 #30
